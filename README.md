@@ -22,4 +22,6 @@ Front-End foi criado utilizando o React Native. O projeto foi divido em pastas p
   * npm install @react-navigation/material-top-tabs
   * npm install react-native-tab-view
 
+⚠️ **Atenção:** No arquivo "api.js" é necessário alterar o 'seuIp' para o seu IP para que funcione corretamente. O locahost não funcionou.
+
 <img src="https://i.ibb.co/mGFtk5s/image.png" width=200> <img src="https://i.ibb.co/PYW555q/image.png" width=200>
